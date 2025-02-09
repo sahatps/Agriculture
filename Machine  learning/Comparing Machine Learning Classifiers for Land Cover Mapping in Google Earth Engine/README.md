@@ -83,21 +83,7 @@ This is a **web-based application** that compares various machine learning class
 
 ---
 
-## 📊 **Hyperparameter Tuning Example**
-The following table shows an example of the parameter grid for tuning the **Random Forest classifier**:
 
-| Number of Trees | Variables per Split | Minimum Leaf Population | Accuracy (%) |
-|----------------|---------------------|-------------------------|--------------|
-| 50             | None                | 1                       | 85.6         |
-| 100            | 2                   | 2                       | 87.2         |
-| 200            | 2                   | 2                       | 89.4         |
-
----
-
-## 📸 **Screenshots**
-| Sentinel-2 Composite           | Classified Image (Random Forest)     |
-|--------------------------------|--------------------------------------|
-| ![Sentinel-2](https://user-images.com/placeholder1.png) | ![Classified](https://user-images.com/placeholder2.png) |
 
 ---
 
