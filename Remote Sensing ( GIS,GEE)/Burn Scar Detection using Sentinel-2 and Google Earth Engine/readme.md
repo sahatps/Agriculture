@@ -1,8 +1,8 @@
-# 🔥 Burn Scar Detection using Sentinel-2 and Google Earth Engine 🔥
+# 🔥 Post-Fire Burn Severity Analysis & Burn Scar Detection using Sentinel-2 and Google Earth Engine 🔥
 
 This project identifies and classifies **burn severity** in a specified region using **Sentinel-2 satellite imagery** and **Google Earth Engine (GEE)**. The analysis focuses on detecting **burn scars** and measuring fire impact by comparing pre-fire and post-fire conditions. The results are visualized interactively using **Geemap**.
 
-> 🚀 Try the Colab Notebook here: [Post-Fire Burn Severity Analysis](https://colab.research.google.com/drive/1pZx0-gO2oZHFxuCFLZ4hOJsRlnpNMWTC)
+> 🚀 Try the Colab Notebook here: [Post-Fire Burn Severity Analysis & Burn Scar Detection using Sentinel-2 and Google Earth Engine](https://colab.research.google.com/drive/1pZx0-gO2oZHFxuCFLZ4hOJsRlnpNMWTC)
 
 ---
 
