@@ -124,10 +124,7 @@ Contributions are welcome! Feel free to submit pull requests or raise issues on 
 
 ---
 
-## 📞 **Contact**
-- **Author:** Your Name  
-- **Email:** your.email@example.com  
-- **GitHub:** [Your GitHub Profile](https://github.com/your-profile)
+
 
 ---
 
