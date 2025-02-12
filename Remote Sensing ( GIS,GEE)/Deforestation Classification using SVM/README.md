@@ -4,7 +4,7 @@ This is a **web-based application** designed to classify forested and deforested
 
 > 🚀 Try the live app here: [Deforestation Classification on Hugging Face](https://huggingface.co/spaces/thprs/Deforestation_Classification_using_SVM)
 
----
+![Image](https://github.com/user-attachments/assets/81638ab1-d01a-47f3-ac19-04c8d2da0e81)
 
 ## 🌟 **Key Features**
 - **Interactive Web Interface:** Easily configure and run the classification via the browser.
