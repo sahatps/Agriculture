@@ -4,7 +4,7 @@ This project identifies and classifies **burn severity** in a specified region u
 
 > 🚀 Try the Colab Notebook here: [Post-Fire Burn Severity Analysis & Burn Scar Detection using Sentinel-2 and Google Earth Engine](https://colab.research.google.com/drive/1pZx0-gO2oZHFxuCFLZ4hOJsRlnpNMWTC)
 
----
+![Image](https://github.com/user-attachments/assets/80124741-72b6-459d-a9c1-2706c5ff50cc)
 
 ## 🌟 **Key Features**
 - **Pre-Fire vs. Post-Fire Analysis:** Analyze and compare satellite images from before and after the fire event.
