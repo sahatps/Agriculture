@@ -2,13 +2,15 @@
 
    This project demonstrates a carbon footprint calculation tool implemented that uses a zero‑shot classification model to automatically assign an emission factor (EF) based on product descriptions. The tool then combines these EF values with corresponding cost data to compute the total carbon emissions for each product, offering an automated, reproducible, and transparent method for environmental impact assessment.
 
----
+
 
 ## Colab Notebook
 
 Access the interactive Colab notebook to run and experiment with the project code:
 
 [https://colab.research.google.com/drive/1vNP1-xIaJYXdwemNvQaWWAJNaHiKNZvf#scrollTo=ZWYwTqnIxJje](https://colab.research.google.com/drive/1vNP1-xIaJYXdwemNvQaWWAJNaHiKNZvf#scrollTo=ZWYwTqnIxJje)
+
+![Image](https://github.com/user-attachments/assets/410aa9c3-1e05-4de1-af58-c8babe4b090d)
 
 ---
 
