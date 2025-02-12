@@ -4,7 +4,8 @@ This is a **web-based application** that compares various machine learning class
 
 > 🚀 **Try the live notebook here:** [Open in Colab](https://colab.research.google.com/drive/1DM5DY2cs2x-NTMmzPcAKDmrjjcp8urkO)
 
-![Image](https://github.com/user-attachments/assets/9fcd5493-0e56-4c1a-87ef-5161782f87e4)
+
+![Image](https://github.com/user-attachments/assets/5cdf8e5e-f76a-4bd9-8044-430a20a3f383)
 
 ## 🌟 **Key Features**
 - **Classifier Comparison:** Evaluate six machine learning models on land cover classification:
