@@ -3,6 +3,8 @@
 This project utilizes **temperature-based activity monitoring** to detect estrus (heat) in cows using **Python and Pandas**. The system processes **activity change data** from an uploaded Excel file, applies **data cleaning**, and then detects heat events based on **activity thresholds**.
 
 > 🚀 **Try the live notebook here:** [Open in Colab](https://colab.research.google.com/drive/1yxKlbDP0oc_pGXtvgJt8UiUqhCit8UNH?usp=sharing)
+
+
 ![Image](https://github.com/user-attachments/assets/74ee57bb-4d2c-455c-8ea5-94624854ad0c)
 ---
 
